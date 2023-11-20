@@ -1,0 +1,4 @@
+"C:\Program Files\JetBrains\CLion 2023.2.1\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" -S "C:\Users\k.w\OneDrive\Sheridan\2023 FALL\Data structures and Algorithm Development-C PROG20799\assignment\assignment3\JialinWuAssign3" -B "C:\Users\k.w\OneDrive\Sheridan\2023 FALL\Data structures and Algorithm Development-C PROG20799\assignment\assignment3\JialinWuAssign3\cmake-build-debug"
+-- Configuring done (0.2s)
+-- Generating done (0.2s)
+-- Build files have been written to: C:/Users/k.w/OneDrive/Sheridan/2023 FALL/Data structures and Algorithm Development-C PROG20799/assignment/assignment3/JialinWuAssign3/cmake-build-debug
